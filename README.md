@@ -1,4 +1,20 @@
-### Hi there 👋
+### Bem Vindo! 👋
+
+Meu nome é Flora e sou:
+
+  - Técnica nível médio em Rdes de Computadores.
+  - Estudante no curso Tecnologo em Sistemas para Internet
+
+Tenho conhecimento em: 
+  - PHP
+  - Java
+  - JavaScript
+  - C
+  - C++
+  - Um de ReactJS
+  - Redes de Computadores
+
+Gostaria muito de aprender mais e mais sobre tecnologia novas e/ou melhorar conhecimentos que já possuo.
 
 <!--
 **FloraOFF/FloraOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +34,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloraOFF)](https://github.com/FloraOFF/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloraOFF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloraOFF&show_icons=true&theme=dracula)
