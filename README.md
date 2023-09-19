@@ -1,4 +1,4 @@
-### Bem Vindo! 👋
+### Hello, welcome! 👋
 
 Meu nome é Flora e sou:
 
