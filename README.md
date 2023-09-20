@@ -11,7 +11,7 @@ Tenho conhecimento em:
   - JavaScript
   - C
   - C++
-  - Um de ReactJS
+  - Um pouco de ReactJS
   - Redes de Computadores
 
 Gostaria muito de aprender mais e mais sobre tecnologia novas e/ou melhorar conhecimentos que já possuo.
