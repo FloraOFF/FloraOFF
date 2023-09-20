@@ -2,7 +2,7 @@
 
 Meu nome é Flora e sou:
 
-  - Técnica nível médio em Rdes de Computadores.
+  - Técnica nível médio em Redes de Computadores.
   - Estudante no curso Tecnologo em Sistemas para Internet
 
 Tenho conhecimento em: 
