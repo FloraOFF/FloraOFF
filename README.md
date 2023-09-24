@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloraOFF&show_icons=true&theme=dracula)
 [![Top Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FloraOFF&layout=compact&theme=dark)](https://github.com/FloraOFF/github-readme-stats)
 <!-- Atividade recente do GitHub -->
 
