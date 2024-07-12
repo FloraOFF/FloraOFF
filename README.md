@@ -2,8 +2,9 @@
 
 Meu nome é Flora e sou:
 
-  - Técnica nível médio em Redes de Computadores.
-  - Estudante no curso Tecnologo em Sistemas para Internet
+  - Técnica nível médio em Redes de Computadores (IFAC)
+  - Estudante no curso Tecnologo em Sistemas para Internet (IFAC)
+  - Programadora Web Full-Stack (UFAC com parceira da Motorola)
 
 Tenho conhecimento em: 
   - PHP
@@ -12,6 +13,10 @@ Tenho conhecimento em:
   - C
   - C++
   - Um pouco de ReactJS
+  - Angular
+  - Spring
+  - Um pouco de NodeJs
+  - Um pouco de MongoDB
   - Redes de Computadores
 
 Gostaria muito de aprender mais e mais sobre tecnologia novas e/ou melhorar conhecimentos que já possuo.
