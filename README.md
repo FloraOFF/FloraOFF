@@ -39,8 +39,8 @@ Tenho conhecimento em:
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
   </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networking/networking-original.svg" alt="Redes de Computadores" width="40" height="40"/> 
+  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+      <img src="https://img.icons8.com/ios-filled/50/000000/network.png" alt="Redes de Computadores" width="40" height="40"/>
   </a>
 </p>
 
