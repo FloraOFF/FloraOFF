@@ -1,12 +1,12 @@
 ### Hello, welcome! 👋
 
-Meu nome é Flora e sou:
+##My name is Flora and I am:
+  
+  - Technical level in Computer Networks (IFAC)
+  - Student in the Technology course in Systems for the Internet (IFAC)
+  - Full-Stack Web Developer (UFAC in partnership with Motorola)
 
-  - Técnica nível médio em Redes de Computadores (IFAC)
-  - Estudante no curso Tecnologo em Sistemas para Internet (IFAC)
-  - Programadora Web Full-Stack (UFAC com parceira da Motorola)
-
-Tenho conhecimento em: 
+##I have knowledge in:  
   
 <p align="left">
   <a href="https://www.php.net" target="_blank"> 
@@ -44,7 +44,7 @@ Tenho conhecimento em:
   </a>
 </p>
 
-Gostaria muito de aprender mais e mais sobre tecnologia novas e/ou melhorar conhecimentos que já possuo.
+##I would love to learn more about new technologies and improve the knowledge I already have.
 
 <!--
 **FloraOFF/FloraOFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
