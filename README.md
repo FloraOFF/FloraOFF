@@ -2,7 +2,7 @@
 
 ## My name is Flora and I am:
   - A technical professional in Computer Networks (IFAC)
-  - A student in the Technology course in Systems for the Internet (IFAC)
+  - A future graduate in the Technology course in Systems for the Internet (IFAC)
   - A Full-Stack Web Developer (UFAC in partnership with Motorola)
 
 ## My expertise includes:
