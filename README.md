@@ -7,44 +7,44 @@
 
 ## My expertise includes:
 
-<p align="left" style="a {text-decoration: none;}"> 
-  <a href="https://www.php.net" target="_blank"> 
+<p align="left"> 
+  <a href="https://www.php.net" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> 
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
   </a> 
-  <a href="https://angular.io" target="_blank"> 
+  <a href="https://angular.io" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
   </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank"> 
+  <a href="https://spring.io/projects/spring-boot" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> 
   </a> 
-  <a href="https://nodejs.org" target="_blank"> 
+  <a href="https://nodejs.org" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; color: inherit;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
   </a> 
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/fluency/48/network.png" alt="Computer Networks" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
+  <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   </a>
 </p>
