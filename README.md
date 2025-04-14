@@ -7,7 +7,7 @@
 
 ## My expertise includes:
 
-<p align="left" style="text-decoration: none;"> 
+<p align="left" style="a {text-decoration: none;}"> 
   <a href="https://www.php.net" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
   </a> 
