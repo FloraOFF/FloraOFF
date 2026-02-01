@@ -1,52 +1,49 @@
 # Hello, welcome! 👋
 
-## My name is Flora and I am:
-  - A technical professional in Computer Networks (IFAC)
-  - A future graduate in the Technology course in Systems for the Internet (IFAC)
-  - A Full-Stack Web Developer (UFAC in partnership with Motorola)
+## I'm Flora França
 
-## My expertise includes:
+I'm a **Full Stack Developer** and **Data Analyst**, with a strong background in **Computer Networks** and **Systems for Internet**. I have experience developing web and mobile applications, as well as working with data analysis, processing, and visualization to support decision-making.
+
+### 🎓 Education
+- Technologist in **Systems for Internet** – IFAC  
+- Technical Degree in **Computer Networks** – IFAC  
+- **Full Stack Web Development Program** – Motorola & UFAC
+
+### 💻 Tech Stack & Skills
 
 <p align="left"> 
-  <a href="https://www.php.net" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/projects/spring-boot" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none; color: inherit;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/fluency/48/network.png" alt="Computer Networks" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  </a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://angular.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
-## I am passionate about learning new technologies and enhancing the knowledge I already possess.
+### 📊 Data Analysis
+- Python (Pandas)
+- Power Query (Excel & Power BI)
+- Data cleaning, transformation, and data consistency
+- Data-driven decision support
+
+### 📱 Mobile Development
+- Android development
+- Experience publishing an application on **Google Play Store**
+- Full project lifecycle: development, versioning, and publication
+
+### 🌍 Languages
+- English: Technical & Conversational
+- Spanish: Reading & Comprehension
+- French: Basic knowledge
+
+---
+
+I'm passionate about continuous learning, clean code, and building solutions that are scalable, reliable, and meaningful.  
+Feel free to explore my repositories and connect!
