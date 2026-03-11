@@ -43,6 +43,11 @@ I'm a **Full Stack Developer** and **Data Analyst**, with a strong background in
 - Spanish: Reading & Comprehension
 - French: Basic knowledge
 
+## 📊 GitHub Stats
+
+![Flora's GitHub stats](https://github-readme-stats.vercel.app/api?username=FloraOFF&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FloraOFF&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=FloraOFF&theme=dracula)
 ---
 
 I'm passionate about continuous learning, clean code, and building solutions that are scalable, reliable, and meaningful.  
